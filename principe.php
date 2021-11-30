@@ -1,10 +1,5 @@
 <?php
-$principediudine = "PRINCIPE DI UDINE";
-function show() {	
-	global $principediudine;
-	echo $principediudine;
-}
-show();
+echo "<strong>PRINCIPE DI UDINE</strong>";
 echo "<br/>";
 $pf = "PRATO FEITO -> R$ 59.00 ao KG";
 	function show1() {
